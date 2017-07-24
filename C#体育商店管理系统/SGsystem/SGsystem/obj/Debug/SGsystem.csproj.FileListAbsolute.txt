@@ -1,0 +1,143 @@
+D:\WorkSpace\visual studio 2015\SGsystem\SGsystem\bin\Debug\SGsystem.exe.config
+D:\WorkSpace\visual studio 2015\SGsystem\SGsystem\bin\Debug\SGsystem.exe
+D:\WorkSpace\visual studio 2015\SGsystem\SGsystem\bin\Debug\SGsystem.pdb
+D:\WorkSpace\visual studio 2015\SGsystem\SGsystem\obj\Debug\SGsystem.csprojResolveAssemblyReference.cache
+D:\WorkSpace\visual studio 2015\SGsystem\SGsystem\obj\Debug\SGsystem.Properties.Resources.resources
+D:\WorkSpace\visual studio 2015\SGsystem\SGsystem\obj\Debug\SGsystem.csproj.GenerateResource.Cache
+D:\WorkSpace\visual studio 2015\SGsystem\SGsystem\obj\Debug\SGsystem.exe
+D:\WorkSpace\visual studio 2015\SGsystem\SGsystem\obj\Debug\SGsystem.pdb
+D:\WorkSpace\visual studio 2015\SGsystem\SGsystem\bin\Debug\CSkin.xml
+D:\WorkSpace\visual studio 2015\SGsystem\SGsystem\obj\Debug\SGsystem.Login.resources
+D:\WorkSpace\visual studio 2015\SGsystem\SGsystem\obj\Debug\SGsystem.Main.resources
+D:\WorkSpace\visual studio 2015\SGsystem\SGsystem\obj\Debug\SGsystem.UseNote.resources
+D:\WorkSpace\visual studio 2015\SGsystem\SGsystem\obj\Debug\SGsystem.Center.resources
+D:\WorkSpace\visual studio 2015\SGsystem\SGsystem\obj\Debug\SGsystem.ChangePassword.resources
+D:\WorkSpace\visual studio 2015\SGsystem\SGsystem\obj\Debug\SGsystem.About.resources
+D:\WorkSpace\visual studio 2015\SGsystem\SGsystem\bin\Debug\Interfaces.dll
+D:\WorkSpace\visual studio 2015\SGsystem\SGsystem\bin\Debug\DBCL.dll
+D:\WorkSpace\visual studio 2015\SGsystem\SGsystem\bin\Debug\EntityFramework.dll
+D:\WorkSpace\visual studio 2015\SGsystem\SGsystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\WorkSpace\visual studio 2015\SGsystem\SGsystem\bin\Debug\DBCL.pdb
+D:\WorkSpace\visual studio 2015\SGsystem\SGsystem\bin\Debug\EntityFramework.xml
+D:\WorkSpace\visual studio 2015\SGsystem\SGsystem\bin\Debug\EntityFramework.SqlServer.xml
+D:\WorkSpace\visual studio 2015\SGsystem\SGsystem\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\WorkSpace\visual studio 2015\SGsystem\SGsystem\obj\Debug\SGsystem.DetailOfSales.resources
+D:\WorkSpace\visual studio 2015\SGsystem\SGsystem\obj\Debug\SGsystem.DetailOfTK.resources
+D:\WorkSpace\visual studio 2015\SGsystem\SGsystem\obj\Debug\SGsystem.cth.resources
+D:\WorkSpace\visual studio 2015\SGsystem\SGsystem\obj\Debug\SGsystem.jh.resources
+D:\WorkSpace\visual studio 2015\SGsystem\SGsystem\obj\Debug\SGsystem.s_change.resources
+D:\visual studio 2013\SGsystem\SGsystem\bin\Debug\SGsystem.exe.config
+D:\visual studio 2013\SGsystem\SGsystem\obj\Debug\SGsystem.exe
+D:\visual studio 2013\SGsystem\SGsystem\obj\Debug\SGsystem.pdb
+D:\visual studio 2013\SGsystem\SGsystem\bin\Debug\SGsystem.exe
+D:\visual studio 2013\SGsystem\SGsystem\bin\Debug\SGsystem.pdb
+D:\visual studio 2013\SGsystem\SGsystem\bin\Debug\DBCL.dll
+D:\visual studio 2013\SGsystem\SGsystem\bin\Debug\EntityFramework.dll
+D:\visual studio 2013\SGsystem\SGsystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\visual studio 2013\SGsystem\SGsystem\bin\Debug\Interfaces.dll
+D:\visual studio 2013\SGsystem\SGsystem\bin\Debug\DBCL.pdb
+D:\visual studio 2013\SGsystem\SGsystem\bin\Debug\CSkin.xml
+D:\visual studio 2013\SGsystem\SGsystem\bin\Debug\EntityFramework.xml
+D:\visual studio 2013\SGsystem\SGsystem\bin\Debug\EntityFramework.SqlServer.xml
+D:\visual studio 2013\SGsystem\SGsystem\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\visual studio 2013\SGsystem\SGsystem\obj\Debug\SGsystem.csprojResolveAssemblyReference.cache
+D:\visual studio 2013\SGsystem\SGsystem\obj\Debug\SGsystem.ChangePassword.resources
+D:\visual studio 2013\SGsystem\SGsystem\obj\Debug\SGsystem.cth.resources
+D:\visual studio 2013\SGsystem\SGsystem\obj\Debug\SGsystem.DetailOfSales.resources
+D:\visual studio 2013\SGsystem\SGsystem\obj\Debug\SGsystem.DetailOfTK.resources
+D:\visual studio 2013\SGsystem\SGsystem\obj\Debug\SGsystem.jh.resources
+D:\visual studio 2013\SGsystem\SGsystem\obj\Debug\SGsystem.Login.resources
+D:\visual studio 2013\SGsystem\SGsystem\obj\Debug\SGsystem.Main.resources
+D:\visual studio 2013\SGsystem\SGsystem\obj\Debug\SGsystem.About.resources
+D:\visual studio 2013\SGsystem\SGsystem\obj\Debug\SGsystem.s_change.resources
+D:\visual studio 2013\SGsystem\SGsystem\obj\Debug\SGsystem.UseNote.resources
+D:\visual studio 2013\SGsystem\SGsystem\obj\Debug\SGsystem.Center.resources
+D:\visual studio 2013\SGsystem\SGsystem\obj\Debug\SGsystem.Properties.Resources.resources
+D:\visual studio 2013\SGsystem\SGsystem\obj\Debug\SGsystem.csproj.GenerateResource.Cache
+D:\WorkSpace\visual studio 2015\SGsystem03\SGsystem\bin\Debug\SGsystem.exe.config
+D:\WorkSpace\visual studio 2015\SGsystem03\SGsystem\obj\Debug\SGsystem.exe
+D:\WorkSpace\visual studio 2015\SGsystem03\SGsystem\obj\Debug\SGsystem.pdb
+D:\WorkSpace\visual studio 2015\SGsystem03\SGsystem\bin\Debug\SGsystem.exe
+D:\WorkSpace\visual studio 2015\SGsystem03\SGsystem\bin\Debug\SGsystem.pdb
+D:\WorkSpace\visual studio 2015\SGsystem03\SGsystem\bin\Debug\DBCL.dll
+D:\WorkSpace\visual studio 2015\SGsystem03\SGsystem\bin\Debug\EntityFramework.dll
+D:\WorkSpace\visual studio 2015\SGsystem03\SGsystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\WorkSpace\visual studio 2015\SGsystem03\SGsystem\bin\Debug\Interfaces.dll
+D:\WorkSpace\visual studio 2015\SGsystem03\SGsystem\bin\Debug\DBCL.pdb
+D:\WorkSpace\visual studio 2015\SGsystem03\SGsystem\bin\Debug\CSkin.xml
+D:\WorkSpace\visual studio 2015\SGsystem03\SGsystem\bin\Debug\EntityFramework.xml
+D:\WorkSpace\visual studio 2015\SGsystem03\SGsystem\bin\Debug\EntityFramework.SqlServer.xml
+D:\WorkSpace\visual studio 2015\SGsystem03\SGsystem\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\WorkSpace\visual studio 2015\SGsystem03\SGsystem\obj\Debug\SGsystem.csprojResolveAssemblyReference.cache
+D:\WorkSpace\visual studio 2015\SGsystem03\SGsystem\obj\Debug\SGsystem.ChangePassword.resources
+D:\WorkSpace\visual studio 2015\SGsystem03\SGsystem\obj\Debug\SGsystem.cth.resources
+D:\WorkSpace\visual studio 2015\SGsystem03\SGsystem\obj\Debug\SGsystem.DetailOfSales.resources
+D:\WorkSpace\visual studio 2015\SGsystem03\SGsystem\obj\Debug\SGsystem.DetailOfTK.resources
+D:\WorkSpace\visual studio 2015\SGsystem03\SGsystem\obj\Debug\SGsystem.jh.resources
+D:\WorkSpace\visual studio 2015\SGsystem03\SGsystem\obj\Debug\SGsystem.Login.resources
+D:\WorkSpace\visual studio 2015\SGsystem03\SGsystem\obj\Debug\SGsystem.Main.resources
+D:\WorkSpace\visual studio 2015\SGsystem03\SGsystem\obj\Debug\SGsystem.About.resources
+D:\WorkSpace\visual studio 2015\SGsystem03\SGsystem\obj\Debug\SGsystem.s_change.resources
+D:\WorkSpace\visual studio 2015\SGsystem03\SGsystem\obj\Debug\SGsystem.UseNote.resources
+D:\WorkSpace\visual studio 2015\SGsystem03\SGsystem\obj\Debug\SGsystem.Center.resources
+D:\WorkSpace\visual studio 2015\SGsystem03\SGsystem\obj\Debug\SGsystem.Properties.Resources.resources
+D:\WorkSpace\visual studio 2015\SGsystem03\SGsystem\obj\Debug\SGsystem.csproj.GenerateResource.Cache
+I:\3 c#\SGsystem\SGsystem\bin\Debug\SGsystem.exe.config
+I:\3 c#\SGsystem\SGsystem\obj\Debug\SGsystem.exe
+I:\3 c#\SGsystem\SGsystem\obj\Debug\SGsystem.pdb
+D:\大三学期\软件总结\SGsystem\SGsystem\bin\Debug\SGsystem.exe.config
+D:\大三学期\软件总结\SGsystem\SGsystem\obj\Debug\SGsystem.exe
+D:\大三学期\软件总结\SGsystem\SGsystem\obj\Debug\SGsystem.pdb
+D:\大三学期\软件总结\SGsystem\SGsystem\obj\Debug\SGsystem.csprojResolveAssemblyReference.cache
+D:\大三学期\软件总结\SGsystem\SGsystem\obj\Debug\SGsystem.ChangePassword.resources
+D:\大三学期\软件总结\SGsystem\SGsystem\obj\Debug\SGsystem.cth.resources
+D:\大三学期\软件总结\SGsystem\SGsystem\obj\Debug\SGsystem.DetailOfSales.resources
+D:\大三学期\软件总结\SGsystem\SGsystem\obj\Debug\SGsystem.DetailOfTK.resources
+D:\大三学期\软件总结\SGsystem\SGsystem\obj\Debug\SGsystem.jh.resources
+D:\大三学期\软件总结\SGsystem\SGsystem\obj\Debug\SGsystem.Login.resources
+D:\大三学期\软件总结\SGsystem\SGsystem\obj\Debug\SGsystem.Main.resources
+D:\大三学期\软件总结\SGsystem\SGsystem\obj\Debug\SGsystem.About.resources
+D:\大三学期\软件总结\SGsystem\SGsystem\obj\Debug\SGsystem.s_change.resources
+D:\大三学期\软件总结\SGsystem\SGsystem\obj\Debug\SGsystem.UseNote.resources
+D:\大三学期\软件总结\SGsystem\SGsystem\obj\Debug\SGsystem.Center.resources
+D:\大三学期\软件总结\SGsystem\SGsystem\obj\Debug\SGsystem.Properties.Resources.resources
+D:\大三学期\软件总结\SGsystem\SGsystem\obj\Debug\SGsystem.csproj.GenerateResource.Cache
+D:\大三学期\软件总结\SGsystem\SGsystem\bin\Debug\SGsystem.exe
+D:\大三学期\软件总结\SGsystem\SGsystem\bin\Debug\SGsystem.pdb
+D:\大三学期\软件总结\SGsystem\SGsystem\bin\Debug\DBCL.dll
+D:\大三学期\软件总结\SGsystem\SGsystem\bin\Debug\EntityFramework.dll
+D:\大三学期\软件总结\SGsystem\SGsystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\大三学期\软件总结\SGsystem\SGsystem\bin\Debug\Interfaces.dll
+D:\大三学期\软件总结\SGsystem\SGsystem\bin\Debug\DBCL.pdb
+D:\大三学期\软件总结\SGsystem\SGsystem\bin\Debug\CSkin.xml
+D:\大三学期\软件总结\SGsystem\SGsystem\bin\Debug\EntityFramework.xml
+D:\大三学期\软件总结\SGsystem\SGsystem\bin\Debug\EntityFramework.SqlServer.xml
+D:\大三学期\软件总结\SGsystem\SGsystem\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\大三学期下\软件过程管理\SGsystem\SGsystem\bin\Debug\SGsystem.exe.config
+E:\大三学期下\软件过程管理\SGsystem\SGsystem\obj\Debug\SGsystem.exe
+E:\大三学期下\软件过程管理\SGsystem\SGsystem\obj\Debug\SGsystem.pdb
+E:\大三学期下\软件过程管理\SGsystem\SGsystem\bin\Debug\SGsystem.exe
+E:\大三学期下\软件过程管理\SGsystem\SGsystem\bin\Debug\SGsystem.pdb
+E:\大三学期下\软件过程管理\SGsystem\SGsystem\bin\Debug\DBCL.dll
+E:\大三学期下\软件过程管理\SGsystem\SGsystem\bin\Debug\EntityFramework.dll
+E:\大三学期下\软件过程管理\SGsystem\SGsystem\bin\Debug\EntityFramework.SqlServer.dll
+E:\大三学期下\软件过程管理\SGsystem\SGsystem\bin\Debug\Interfaces.dll
+E:\大三学期下\软件过程管理\SGsystem\SGsystem\bin\Debug\DBCL.pdb
+E:\大三学期下\软件过程管理\SGsystem\SGsystem\bin\Debug\CSkin.xml
+E:\大三学期下\软件过程管理\SGsystem\SGsystem\bin\Debug\EntityFramework.xml
+E:\大三学期下\软件过程管理\SGsystem\SGsystem\bin\Debug\EntityFramework.SqlServer.xml
+E:\大三学期下\软件过程管理\SGsystem\SGsystem\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\大三学期下\软件过程管理\SGsystem\SGsystem\obj\Debug\SGsystem.csprojResolveAssemblyReference.cache
+E:\大三学期下\软件过程管理\SGsystem\SGsystem\obj\Debug\SGsystem.ChangePassword.resources
+E:\大三学期下\软件过程管理\SGsystem\SGsystem\obj\Debug\SGsystem.cth.resources
+E:\大三学期下\软件过程管理\SGsystem\SGsystem\obj\Debug\SGsystem.DetailOfSales.resources
+E:\大三学期下\软件过程管理\SGsystem\SGsystem\obj\Debug\SGsystem.DetailOfTK.resources
+E:\大三学期下\软件过程管理\SGsystem\SGsystem\obj\Debug\SGsystem.jh.resources
+E:\大三学期下\软件过程管理\SGsystem\SGsystem\obj\Debug\SGsystem.Login.resources
+E:\大三学期下\软件过程管理\SGsystem\SGsystem\obj\Debug\SGsystem.Main.resources
+E:\大三学期下\软件过程管理\SGsystem\SGsystem\obj\Debug\SGsystem.About.resources
+E:\大三学期下\软件过程管理\SGsystem\SGsystem\obj\Debug\SGsystem.s_change.resources
+E:\大三学期下\软件过程管理\SGsystem\SGsystem\obj\Debug\SGsystem.UseNote.resources
+E:\大三学期下\软件过程管理\SGsystem\SGsystem\obj\Debug\SGsystem.Center.resources
+E:\大三学期下\软件过程管理\SGsystem\SGsystem\obj\Debug\SGsystem.Properties.Resources.resources
+E:\大三学期下\软件过程管理\SGsystem\SGsystem\obj\Debug\SGsystem.csproj.GenerateResource.Cache

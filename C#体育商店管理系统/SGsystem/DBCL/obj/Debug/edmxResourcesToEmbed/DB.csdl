@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="fund">
+    <Key>
+      <PropertyRef Name="funds_id" />
+    </Key>
+    <Property Name="funds_id" Type="Int32" Nullable="false" />
+    <Property Name="funds_location" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="funds_number" Type="Decimal" Precision="38" Scale="2" />
+  </EntityType>
+  <EntityType Name="pay">
+    <Key>
+      <PropertyRef Name="pay_id" />
+    </Key>
+    <Property Name="pay_id" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="pay_purchase_id" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="pay_worker_id" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="pay_data" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="pay_number" Type="Decimal" Precision="10" Scale="2" />
+    <Property Name="pay_type" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="pay_others" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="permission">
+    <Key>
+      <PropertyRef Name="permission_id" />
+    </Key>
+    <Property Name="permission_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="permission_na" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="permission_code" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="purchase">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="purchase_id" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="purchase_source" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="purchase_worker_id" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="purchase_data" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="purchase_name" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="purchase_unit" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="purchase_number" Type="Decimal" Precision="10" Scale="2" />
+    <Property Name="purchase_price" Type="Decimal" Precision="10" Scale="2" />
+    <Property Name="purchase_real_price" Type="Decimal" Precision="10" Scale="2" />
+    <Property Name="purchase_others" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="purchase_whole_price" Type="Decimal" Precision="10" Scale="2" />
+    <Property Name="purchase_date" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="purchase_size" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="purchase_code" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="recipt">
+    <Key>
+      <PropertyRef Name="receipt_id" />
+    </Key>
+    <Property Name="receipt_id" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="receipt_sales_id" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="receipt_worker_id" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="receipt_data" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="receipt_number" Type="Decimal" Precision="10" Scale="2" />
+    <Property Name="receipt_type" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="receipt_others" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="sale">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="sales_id" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="sales_whereabouts" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="sales_worker_id" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="sales_data" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="sales_name" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="sales_unit" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="sales_number" Type="Decimal" Precision="10" Scale="2" />
+    <Property Name="sales_price" Type="Decimal" Precision="10" Scale="2" />
+    <Property Name="sales_real_price" Type="Decimal" Precision="10" Scale="2" />
+    <Property Name="sales_others" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="sales_whole_price" Type="Decimal" Precision="10" Scale="2" />
+  </EntityType>
+  <EntityType Name="TGReturn">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TGReturns_id" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="TGReturns_purchaseid" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="TGReturns_source" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="TGReturns_worker_id" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="TGReturns_data" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="TGReturns_name" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="TGreturns_unit" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="TGReturns_number" Type="Decimal" Precision="10" Scale="2" />
+    <Property Name="TGReturns_price" Type="Decimal" Precision="10" Scale="2" />
+    <Property Name="TGReturns_others" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="TKReturn">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TKReturns_id" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="TKReturns_salesid" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="TKReturns_worker_id" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="TKReturns_data" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="TKReturns_name" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="TKReturns_unit" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="TKReturns_price" Type="Decimal" Precision="10" Scale="2" />
+    <Property Name="TKReturns_number" Type="Decimal" Precision="10" Scale="2" />
+    <Property Name="TKReturns_others" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="user">
+    <Key>
+      <PropertyRef Name="users_workid" />
+    </Key>
+    <Property Name="users_workid" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="users_password" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="users_level" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="users_name" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="users_sex" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="users_id" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="warehouse">
+    <Key>
+      <PropertyRef Name="warehouse_id" />
+    </Key>
+    <Property Name="warehouse_id" Type="Int32" Nullable="false" />
+    <Property Name="warehouse_name" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="warehouse_unit" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="warehouse_number" Type="Decimal" Precision="10" Scale="2" />
+    <Property Name="warehouse_price" Type="Decimal" Precision="10" Scale="2" />
+    <Property Name="warehouse_others" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="DBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="funds" EntityType="Self.fund" />
+    <EntitySet Name="pays" EntityType="Self.pay" />
+    <EntitySet Name="permissions" EntityType="Self.permission" />
+    <EntitySet Name="purchases" EntityType="Self.purchase" />
+    <EntitySet Name="recipts" EntityType="Self.recipt" />
+    <EntitySet Name="sales" EntityType="Self.sale" />
+    <EntitySet Name="TGReturns" EntityType="Self.TGReturn" />
+    <EntitySet Name="TKReturns" EntityType="Self.TKReturn" />
+    <EntitySet Name="users" EntityType="Self.user" />
+    <EntitySet Name="warehouses" EntityType="Self.warehouse" />
+  </EntityContainer>
+</Schema>

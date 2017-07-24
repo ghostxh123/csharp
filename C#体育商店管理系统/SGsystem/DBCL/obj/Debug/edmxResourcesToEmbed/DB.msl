@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DBModelStoreContainer" CdmEntityContainer="DBEntities">
+    <EntitySetMapping Name="funds">
+      <EntityTypeMapping TypeName="DBModel.fund">
+        <MappingFragment StoreEntitySet="funds">
+          <ScalarProperty Name="funds_id" ColumnName="funds_id" />
+          <ScalarProperty Name="funds_location" ColumnName="funds_location" />
+          <ScalarProperty Name="funds_number" ColumnName="funds_number" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="pays">
+      <EntityTypeMapping TypeName="DBModel.pay">
+        <MappingFragment StoreEntitySet="pay">
+          <ScalarProperty Name="pay_id" ColumnName="pay_id" />
+          <ScalarProperty Name="pay_purchase_id" ColumnName="pay_purchase_id" />
+          <ScalarProperty Name="pay_worker_id" ColumnName="pay_worker_id" />
+          <ScalarProperty Name="pay_data" ColumnName="pay_data" />
+          <ScalarProperty Name="pay_number" ColumnName="pay_number" />
+          <ScalarProperty Name="pay_type" ColumnName="pay_type" />
+          <ScalarProperty Name="pay_others" ColumnName="pay_others" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="permissions">
+      <EntityTypeMapping TypeName="DBModel.permission">
+        <MappingFragment StoreEntitySet="permission">
+          <ScalarProperty Name="permission_id" ColumnName="permission_id" />
+          <ScalarProperty Name="permission_na" ColumnName="permission_na" />
+          <ScalarProperty Name="permission_code" ColumnName="permission_code" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="purchases">
+      <EntityTypeMapping TypeName="DBModel.purchase">
+        <MappingFragment StoreEntitySet="purchase">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="purchase_id" ColumnName="purchase_id" />
+          <ScalarProperty Name="purchase_source" ColumnName="purchase_source" />
+          <ScalarProperty Name="purchase_worker_id" ColumnName="purchase_worker_id" />
+          <ScalarProperty Name="purchase_data" ColumnName="purchase_data" />
+          <ScalarProperty Name="purchase_name" ColumnName="purchase_name" />
+          <ScalarProperty Name="purchase_unit" ColumnName="purchase_unit" />
+          <ScalarProperty Name="purchase_number" ColumnName="purchase_number" />
+          <ScalarProperty Name="purchase_price" ColumnName="purchase_price" />
+          <ScalarProperty Name="purchase_real_price" ColumnName="purchase_real_price" />
+          <ScalarProperty Name="purchase_others" ColumnName="purchase_others" />
+          <ScalarProperty Name="purchase_whole_price" ColumnName="purchase_whole_price" />
+          <ScalarProperty Name="purchase_date" ColumnName="purchase_date" />
+          <ScalarProperty Name="purchase_size" ColumnName="purchase_size" />
+          <ScalarProperty Name="purchase_code" ColumnName="purchase_code" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="recipts">
+      <EntityTypeMapping TypeName="DBModel.recipt">
+        <MappingFragment StoreEntitySet="recipt">
+          <ScalarProperty Name="receipt_id" ColumnName="receipt_id" />
+          <ScalarProperty Name="receipt_sales_id" ColumnName="receipt_sales_id" />
+          <ScalarProperty Name="receipt_worker_id" ColumnName="receipt_worker_id" />
+          <ScalarProperty Name="receipt_data" ColumnName="receipt_data" />
+          <ScalarProperty Name="receipt_number" ColumnName="receipt_number" />
+          <ScalarProperty Name="receipt_type" ColumnName="receipt_type" />
+          <ScalarProperty Name="receipt_others" ColumnName="receipt_others" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sales">
+      <EntityTypeMapping TypeName="DBModel.sale">
+        <MappingFragment StoreEntitySet="sales">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="sales_id" ColumnName="sales_id" />
+          <ScalarProperty Name="sales_whereabouts" ColumnName="sales_whereabouts" />
+          <ScalarProperty Name="sales_worker_id" ColumnName="sales_worker_id" />
+          <ScalarProperty Name="sales_data" ColumnName="sales_data" />
+          <ScalarProperty Name="sales_name" ColumnName="sales_name" />
+          <ScalarProperty Name="sales_unit" ColumnName="sales_unit" />
+          <ScalarProperty Name="sales_number" ColumnName="sales_number" />
+          <ScalarProperty Name="sales_price" ColumnName="sales_price" />
+          <ScalarProperty Name="sales_real_price" ColumnName="sales_real_price" />
+          <ScalarProperty Name="sales_others" ColumnName="sales_others" />
+          <ScalarProperty Name="sales_whole_price" ColumnName="sales_whole_price" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TGReturns">
+      <EntityTypeMapping TypeName="DBModel.TGReturn">
+        <MappingFragment StoreEntitySet="TGReturns">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="TGReturns_id" ColumnName="TGReturns_id" />
+          <ScalarProperty Name="TGReturns_purchaseid" ColumnName="TGReturns_purchaseid" />
+          <ScalarProperty Name="TGReturns_source" ColumnName="TGReturns_source" />
+          <ScalarProperty Name="TGReturns_worker_id" ColumnName="TGReturns_worker_id" />
+          <ScalarProperty Name="TGReturns_data" ColumnName="TGReturns_data" />
+          <ScalarProperty Name="TGReturns_name" ColumnName="TGReturns_name" />
+          <ScalarProperty Name="TGreturns_unit" ColumnName="TGreturns_unit" />
+          <ScalarProperty Name="TGReturns_number" ColumnName="TGReturns_number" />
+          <ScalarProperty Name="TGReturns_price" ColumnName="TGReturns_price" />
+          <ScalarProperty Name="TGReturns_others" ColumnName="TGReturns_others" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TKReturns">
+      <EntityTypeMapping TypeName="DBModel.TKReturn">
+        <MappingFragment StoreEntitySet="TKReturns">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="TKReturns_id" ColumnName="TKReturns_id" />
+          <ScalarProperty Name="TKReturns_salesid" ColumnName="TKReturns_salesid" />
+          <ScalarProperty Name="TKReturns_worker_id" ColumnName="TKReturns_worker_id" />
+          <ScalarProperty Name="TKReturns_data" ColumnName="TKReturns_data" />
+          <ScalarProperty Name="TKReturns_name" ColumnName="TKReturns_name" />
+          <ScalarProperty Name="TKReturns_unit" ColumnName="TKReturns_unit" />
+          <ScalarProperty Name="TKReturns_price" ColumnName="TKReturns_price" />
+          <ScalarProperty Name="TKReturns_number" ColumnName="TKReturns_number" />
+          <ScalarProperty Name="TKReturns_others" ColumnName="TKReturns_others" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="users">
+      <EntityTypeMapping TypeName="DBModel.user">
+        <MappingFragment StoreEntitySet="users">
+          <ScalarProperty Name="users_workid" ColumnName="users_workid" />
+          <ScalarProperty Name="users_password" ColumnName="users_password" />
+          <ScalarProperty Name="users_level" ColumnName="users_level" />
+          <ScalarProperty Name="users_name" ColumnName="users_name" />
+          <ScalarProperty Name="users_sex" ColumnName="users_sex" />
+          <ScalarProperty Name="users_id" ColumnName="users_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="warehouses">
+      <EntityTypeMapping TypeName="DBModel.warehouse">
+        <MappingFragment StoreEntitySet="warehouse">
+          <ScalarProperty Name="warehouse_id" ColumnName="warehouse_id" />
+          <ScalarProperty Name="warehouse_name" ColumnName="warehouse_name" />
+          <ScalarProperty Name="warehouse_unit" ColumnName="warehouse_unit" />
+          <ScalarProperty Name="warehouse_number" ColumnName="warehouse_number" />
+          <ScalarProperty Name="warehouse_price" ColumnName="warehouse_price" />
+          <ScalarProperty Name="warehouse_others" ColumnName="warehouse_others" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

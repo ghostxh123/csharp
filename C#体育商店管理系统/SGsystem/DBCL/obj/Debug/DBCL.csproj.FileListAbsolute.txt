@@ -1,0 +1,10 @@
+E:\大三学期下\软件过程管理\SGsystem\DBCL\bin\Debug\DBCL.dll.config
+E:\大三学期下\软件过程管理\SGsystem\DBCL\bin\Debug\DBCL.dll
+E:\大三学期下\软件过程管理\SGsystem\DBCL\bin\Debug\DBCL.pdb
+E:\大三学期下\软件过程管理\SGsystem\DBCL\bin\Debug\EntityFramework.dll
+E:\大三学期下\软件过程管理\SGsystem\DBCL\bin\Debug\EntityFramework.SqlServer.dll
+E:\大三学期下\软件过程管理\SGsystem\DBCL\bin\Debug\EntityFramework.xml
+E:\大三学期下\软件过程管理\SGsystem\DBCL\bin\Debug\EntityFramework.SqlServer.xml
+E:\大三学期下\软件过程管理\SGsystem\DBCL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\大三学期下\软件过程管理\SGsystem\DBCL\obj\Debug\DBCL.dll
+E:\大三学期下\软件过程管理\SGsystem\DBCL\obj\Debug\DBCL.pdb
